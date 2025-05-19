@@ -10,7 +10,7 @@
     <h2>Inscription</h2> 
 
     <form action="affichage.php" method="POST"> 
-        <label>Nom :</label> 
+        <label>Nom:</label> 
         <input type="text" name="nom" required> 
 
         <label>Prénom :</label> 
